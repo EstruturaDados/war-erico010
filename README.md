@@ -1,3 +1,13 @@
+# DESAFIO CONCLUIDO COM SUCESSO
+
+# Com este projeto, pratiquei fundamentos essenciais de C de forma progressiva:
+
+-Nível Novato: manipulação de dados simples.
+
+-Nível Aventureiro: lógica de batalha e memória dinâmica.
+
+-Nível Mestre: modularização, missões e design limpo.
+
 # 🗺️ Desafio WAR Estruturado – Conquista de Territórios
 
 Bem-vindo ao **Desafio WAR Estruturado!** Inspirado no famoso jogo de estratégia, este desafio convida você a programar diferentes versões do jogo WAR, evoluindo seus conhecimentos em **C** à medida que avança pelos níveis **Novato**, **Aventureiro** e **Mestre**.
